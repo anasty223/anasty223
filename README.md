@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Anastasya 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasty223)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasty223)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **anasty223/anasty223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
