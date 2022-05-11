@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Anastasya 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!--
 **anasty223/anasty223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
