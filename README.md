@@ -4,5 +4,5 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasty223)
   
-  ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=anasty223)
+<!--   ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=anasty223) -->
 
