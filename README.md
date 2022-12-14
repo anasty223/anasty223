@@ -1,7 +1,7 @@
 <h3 align="center">Hi I am Anastasya, a junior developer from Ukraine.   
 
 
-  <h3 > `Area of interest:`
+  <h3 > `Area` of interest:
     <ul> 
   <li> HTML5/CSS3/SASS/BEM                     
    <li> React
