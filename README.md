@@ -1,8 +1,8 @@
-<h3 align="center">Hi I am Anastasya, a developer from Ukraine.
+<h3 align="center">Hi I am Anastasya, a developer from Ukraine.    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasty223&layout=compact)
 
   <h3 > Area of interest:
     <ul> 
-  <li> HTML5/CSS3/SASS/BEM                        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasty223&layout=compact)
+  <li> HTML5/CSS3/SASS/BEM                     
    <li> React
      <li>Responsive/Adaptive design
        <li>JavaScript
