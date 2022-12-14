@@ -5,6 +5,6 @@
 
 [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasty223)
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=anasty223)]
+
   
   
