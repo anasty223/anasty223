@@ -15,25 +15,6 @@
 </div>
  
  
-<!--  HTML5/CSS3/SASS/BEM                     
- React
-    Responsive/Adaptive design
-       JavaScript
-        TypeScript
-           Firebase
-   React-router-dom
-    React-hook-form
-       REST API
-         Node.js
-            <Express
-              Redux
-    MongoDB
-      JWT
-        Mongoose
-          Handlebars
-            Styles-components
-              Yup
- -->
 
  
 
