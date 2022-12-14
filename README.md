@@ -1,6 +1,7 @@
 <h3 align="center">Hi I am Anastasya, a developer from Ukraine.
   
-  <h3> Area of interest:
+  <h3 color="red"> Area of interest:
+    <h4> 
     
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasty223&layout=compact)
