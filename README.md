@@ -1,8 +1,7 @@
 <h3 align="center">Hi I am Anastasya, a junior developer from Ukraine.   
 ### :woman_technologist: About Me :
 
-Area of interest:
-    <ul> 
+
   <li> HTML5/CSS3/SASS/BEM                     
    <li> React
      <li>Responsive/Adaptive design
@@ -28,6 +27,6 @@ Area of interest:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasty223&layout=compact)
 [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasty223)
 
-<ul>
-  <li>(https://www.linkedin.com/in/anasty223/)
- <li>(https://t.me/anasty223)
+                  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anasty223/)
+
+(https://t.me/anasty223)
