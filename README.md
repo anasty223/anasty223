@@ -1,8 +1,8 @@
-<h3 align="center">Hi I am Anastasya, a junior developer from Ukraine.  
+<h3 >Hi I am Anastasya, a junior developer from Ukraine.  
  
 
  
- -:woman_technologist: About Me :
+ :woman_technologist: About Me :
  
  ---
  
