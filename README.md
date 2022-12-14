@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Anastasya 
+<h3 align="center">Hi I am Anastasya, a developer from Ukraine.
+  
+  <h3> Area of interest:
+    
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasty223&layout=compact)
 
