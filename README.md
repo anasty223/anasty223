@@ -1,5 +1,5 @@
 <h3 align="center">Hi I am Anastasya, a developer from Ukraine.
-  
+ <div display:"flex"> 
   <h3 > Area of interest:
     <ul> 
   <li> HTML5/CSS3/SASS/BEM
