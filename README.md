@@ -2,9 +2,24 @@
   
   <h3 > Area of interest:
     <ul> 
+  <li> HTML5/CSS3/SASS/BEM
    <li> React
-     <li>HTML/CSS
-      
+     <li>Responsive/Adaptive design
+       <li>JavaScript
+         <li>TypeScript
+           <li>Firebase
+    <li>React-router-dom
+      <li>React-hook-form
+        <li>REST API
+          <li>Node.js
+            <li>Express
+              <li>Redux
+    <li>MongoDB
+      <li>JWT
+        <li>Mongoose
+          <li>Handlebars
+            <li>Styles-components
+              <li>Yup
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasty223&layout=compact)
