@@ -29,5 +29,5 @@
 [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasty223)
 
 
-  
+  [linkkedin](https://www.linkedin.com/in/anasty223/)
   
