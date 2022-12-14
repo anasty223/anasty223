@@ -1,25 +1,25 @@
 <h3 align="center">Hi I am Anastasya, a junior developer from Ukraine.   
  :woman_technologist: About Me :
 
-
-  <li> HTML5/CSS3/SASS/BEM                     
-   <li> React
-     <li>Responsive/Adaptive design
-       <li>JavaScript
-         <li>TypeScript
-           <li>Firebase
-    <li>React-router-dom
-      <li>React-hook-form
-        <li>REST API
-          <li>Node.js
-            <li>Express
-              <li>Redux
-    <li>MongoDB
-      <li>JWT
-        <li>Mongoose
-          <li>Handlebars
-            <li>Styles-components
-              <li>Yup
+:hammer_and_wrench: Languages and Tools :
+ HTML5/CSS3/SASS/BEM                     
+ React
+    Responsive/Adaptive design
+       JavaScript
+        TypeScript
+           Firebase
+   React-router-dom
+    React-hook-form
+       REST API
+         Node.js
+            <Express
+              Redux
+    MongoDB
+      JWT
+        Mongoose
+          Handlebars
+            Styles-components
+              Yup
 
 
  
