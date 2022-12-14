@@ -28,6 +28,6 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasty223&layout=compact)
 [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasty223)
 
-
-  [My_linkkedin](https://www.linkedin.com/in/anasty223/)
-  [My_telegram](https://t.me/anasty223)
+<ul>
+  <li>[My_linkkedin](https://www.linkedin.com/in/anasty223/)
+ <li> [My_telegram](https://t.me/anasty223)
