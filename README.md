@@ -1,4 +1,4 @@
-<h3 >```Hi I am Anastasya, a junior developer from Ukraine.  ```
+<h3 >Hi I am Anastasya, a junior developer from Ukraine.  
  
 
  
