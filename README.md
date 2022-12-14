@@ -1,8 +1,8 @@
 <h3 align="center">Hi I am Anastasya, a junior developer from Ukraine.  
  
- ---
+
  
- :woman_technologist: About Me :
+ -:woman_technologist: About Me :
  
  ---
  
@@ -24,8 +24,7 @@
  
 :fire: My Stats :
  
- ---
- 
+
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anasty223&theme=dark&background=000000)](https://git.io/streak-stats)
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasty223&layout=compact)
