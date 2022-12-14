@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anastasya 
- I am a junior fullstack developer
+
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasty223)
   
