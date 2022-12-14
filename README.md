@@ -1,7 +1,7 @@
 <h3 align="center">Hi I am Anastasya, a junior developer from Ukraine.   
+### :woman_technologist: About Me :
 
-
-  ```Area of interest:```
+Area of interest:
     <ul> 
   <li> HTML5/CSS3/SASS/BEM                     
    <li> React
